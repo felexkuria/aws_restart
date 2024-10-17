@@ -28,4 +28,5 @@ myFavoriteFruitDictionary = {
 }
 print(type(myFavoriteFruitDictionary))
 print(myFavoriteFruitDictionary["Saanvi"])
+print(myFavoriteFruitDictionary["Akua"])
 print(myFavoriteFruitDictionary["Paulo"])
